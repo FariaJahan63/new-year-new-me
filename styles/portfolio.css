@@ -1,0 +1,19 @@
+.banner {
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.adding-image{
+    background-image: url('../images/watch.png'); 
+    background-repeat:no-repeat;
+}
+.black{
+    background-color: black;
+}
+.sub-color{
+    color: white;
+}
+.quote{
+color: white;
+}
