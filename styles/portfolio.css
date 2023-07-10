@@ -17,3 +17,37 @@
 .quote{
 color: white;
 }
+.img{
+    width: 1600px;
+height: 809px;
+flex-shrink: 0;
+}
+.btn-primary {
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+.ban {
+    /* padding: 30px 30px 0px 150px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.c-us{
+    background: #FD6E0A;
+    color:white;
+text-align:center;
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+width: 160px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 5px;
+}
